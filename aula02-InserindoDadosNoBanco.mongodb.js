@@ -15,6 +15,7 @@ use("dbjogodobixo")
 
 //Como criar uma collection?
 use("dbjogodobixo")
+
 db.createCollection("jogadores");
 
 use("dbjogodobixo")
