@@ -53,4 +53,4 @@ db.estudante.find({"idade":{"$gte": 17 }})
 // onde a idade for maior que 17 e menor ou igual a 18 e o nome for difrente de "maria"
 // mostre apenas os campos Nome e idade na resposta
 use("test")
-db.estudante.find({"idade":{"$gt": 17, ""}})
+db.estudante.find({"idade":{"$gt": 17, "$gte":18}})
