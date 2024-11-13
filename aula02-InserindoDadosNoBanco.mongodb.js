@@ -57,7 +57,6 @@ db.jogadores.insertOne({
 //use("dbjogodobixo")
 //db.Jogadores.drop()
 
-
 //1) Adicionem mais 1 sorteio para amanhã
 
 //2) Crie 2 jogares com 2 apostas cada.
